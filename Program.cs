@@ -18,7 +18,6 @@ namespace PowMethod
             Console.ReadLine();
             string smth = "kkk11";
             Random rnd = new Random();
-            Console.WriteLine(CubeMethod(number));
         }
         public static int PowMethod(int a, int b)
         {
@@ -28,10 +27,6 @@ namespace PowMethod
                 result = result * a;
             }
             return result;
-        }
-        public static int CubeMethod(int a)
-        {
-            return a * a * a;
         }
     }
 }
