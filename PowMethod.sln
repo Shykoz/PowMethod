@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowMethod", "PowMethod.csproj", "{BC863B8A-68EA-4D77-B981-671D07B1EEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC863B8A-68EA-4D77-B981-671D07B1EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC863B8A-68EA-4D77-B981-671D07B1EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC863B8A-68EA-4D77-B981-671D07B1EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC863B8A-68EA-4D77-B981-671D07B1EEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A47A5B-64CF-4B55-A8EC-8FB74937733C}
+	EndGlobalSection
+EndGlobal
