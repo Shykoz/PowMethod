@@ -16,6 +16,7 @@ namespace PowMethod
             int secondNumber = 4;
             Console.WriteLine(PowMethod(number, secondNumber));
             Console.ReadLine();
+            string smth = "kkk11";
         }
         public static int PowMethod(int a, int b)
         {
