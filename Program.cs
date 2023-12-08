@@ -17,6 +17,7 @@ namespace PowMethod
             Console.WriteLine(PowMethod(number, secondNumber));
             Console.ReadLine();
             string smth = "kkk11";
+            Random rnd = new Random();
         }
         public static int PowMethod(int a, int b)
         {
